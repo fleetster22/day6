@@ -8,3 +8,20 @@
 #     print(first_name + " " + last_name)
 #
 # my_name()
+
+# For Loop vs While Loop
+
+# for item in item_list:
+    # Do this
+
+# for number in range(a, b):
+    # print (number)
+
+
+# a = 6
+# while a > 0:
+#     a -= 1
+#     print(a)
+
+# boolean can be != True or == False or while not <condition>
+# Beware of infinite loops, also cannot nest while loops
